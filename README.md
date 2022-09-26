@@ -1,2 +1,5 @@
 # UltimateBot-Backend
-Rackend for ultimatebot or known as Botframework
+Backend for ultimatebot or known as Botframework
+
+Setup:
+uh
